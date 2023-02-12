@@ -1,6 +1,6 @@
 {
-  "name": "unity-license-activate",
-  "version": "0.3.7",
+  "name": "unity-activate-fix",
+  "version": "1.0.3",
   "description": "",
   "main": "./lib/activate.js",
   "repository": {
@@ -17,7 +17,8 @@
   "license": "apache-2.0",
   "preferGlobal": true,
   "dependencies": {
-    "puppeteer": "2.0.0"
+    "puppeteer": "2.0.0",
+    "imap": "^0.8.19"
   },
   "files": [
     "lib"
